@@ -1,0 +1,7 @@
+{ 
+    "cmd": ["path/to/python", "$file", "&&", "start", "cmd", "/c", "$file_base_name & echo. & echo. & pause"], 
+    "selector": "source.python", 
+    "shell": true, 
+    // "working_dir": "$file_dir" 
+} 
+// "start", "cmd", "/k", 

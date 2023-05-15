@@ -1,0 +1,1 @@
+ // cout << "\n\n\t\t So lan xuat hien cua cac phan tu trong mang: \n";

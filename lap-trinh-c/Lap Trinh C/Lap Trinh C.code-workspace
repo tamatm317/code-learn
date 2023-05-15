@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Lap Trinh C",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

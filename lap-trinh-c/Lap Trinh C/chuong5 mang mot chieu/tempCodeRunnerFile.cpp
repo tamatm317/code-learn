@@ -1,0 +1,1 @@
+delete_duplicate_element(a,n);
